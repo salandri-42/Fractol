@@ -1,2 +1,2 @@
 # Fractol
-Realisation des fractales mathematiqyes a l'aide de Minilibix
+Realisation des fractales mathematiques a l'aide de Minilibix
